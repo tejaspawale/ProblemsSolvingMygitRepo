@@ -12,3 +12,4 @@ C:\TAP\ProblemsSolvingMygitRepo\Basics_Exersices\obj\Debug\net10.0\refint\Basics
 C:\TAP\ProblemsSolvingMygitRepo\Basics_Exersices\obj\Debug\net10.0\Basics_Exersices.pdb
 C:\TAP\ProblemsSolvingMygitRepo\Basics_Exersices\obj\Debug\net10.0\Basics_Exersices.genruntimeconfig.cache
 C:\TAP\ProblemsSolvingMygitRepo\Basics_Exersices\obj\Debug\net10.0\ref\Basics_Exersices.dll
+C:\TAP\ProblemsSolvingMygitRepo\Basics_Exersices\obj\Debug\net10.0\Basics_Exersices.sourcelink.json
