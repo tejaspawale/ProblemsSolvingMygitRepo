@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Basics_Exersices/1.0.0": {
+        "runtime": {
+          "Basics_Exersices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basics_Exersices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
