@@ -31,21 +31,59 @@ for(int i = 0; i<=1 ; i++)
 }
 
 
-int[,]result = new int  [3,3];
-for(int i = 0; i < numbers.GetLength(0); i++)
-{
-    for(int j = 0; j < numbers.GetLength(1); j++)
-    {
-        result[j,i] = numbers[i,j];
-    }
-}
+// int[,]result = new int  [3,3];
+// for(int i = 0; i < numbers.GetLength(0); i++)
+// {
+//     for(int j = 0; j < numbers.GetLength(1); j++)
+//     {
+//         result[j,i] = numbers[i,j];
+//     }
+// }
 
-for (int i = 0; i < result.GetLength(0); i++)
+for (int i = 0; i <numbers.GetLength(0); i++)
 {
-    for (int j = 0; j < result.GetLength(1); j++)
+    for (int j = 0; j < numbers.GetLength(1); j++)
     {
-        Console.Write(result[i, j] + " ");
+        Console.Write(numbers[j,i] + " ");
     }
 
     Console.WriteLine();
+}
+
+
+
+int [,] num1 =
+{
+    {1,2},
+    {3,4},
+        
+};
+
+int [,]num2 =
+{
+    {1,2},
+    {3,4}
+};
+
+int [,]r = new int [2,2];
+
+for(int i=0; i < 2; i++)
+{
+    for (int j =0; j <2; j++)
+    {
+       r[i,j]=0;
+
+       for(int k =0 ; k < 2; k++)
+        {
+            r[i,j]=r[i,j]+num1[i,k]*num2[k,j];
+        }
+    }
+}
+
+for (int i =0; i < 2; i++)
+{
+    for (int j =0; j < 2; j++)
+    {
+        Console.WriteLine(r[i,j]);
+    }
 }
