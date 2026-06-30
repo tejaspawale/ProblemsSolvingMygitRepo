@@ -1,0 +1,15 @@
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\bin\Debug\net10.0\DsaTopics.exe
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\bin\Debug\net10.0\DsaTopics.deps.json
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\bin\Debug\net10.0\DsaTopics.runtimeconfig.json
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\bin\Debug\net10.0\DsaTopics.dll
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\bin\Debug\net10.0\DsaTopics.pdb
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\obj\Debug\net10.0\DsaTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\obj\Debug\net10.0\DsaTopics.AssemblyInfoInputs.cache
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\obj\Debug\net10.0\DsaTopics.AssemblyInfo.cs
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\obj\Debug\net10.0\DsaTopics.csproj.CoreCompileInputs.cache
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\obj\Debug\net10.0\DsaTopics.sourcelink.json
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\obj\Debug\net10.0\DsaTopics.dll
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\obj\Debug\net10.0\refint\DsaTopics.dll
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\obj\Debug\net10.0\DsaTopics.pdb
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\obj\Debug\net10.0\DsaTopics.genruntimeconfig.cache
+C:\TAP\ProblemsSolvingMygitRepo\Dsa\DsaTopics\obj\Debug\net10.0\ref\DsaTopics.dll

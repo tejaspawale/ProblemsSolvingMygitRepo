@@ -91,6 +91,8 @@
 // Console.WriteLine(dublicate);
 
 // ---------------- dublicate
+
+
 // int[] k = {1,1,5};
 
 // int duplicate = 0;
