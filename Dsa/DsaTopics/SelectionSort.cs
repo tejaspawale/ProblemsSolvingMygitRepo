@@ -1,4 +1,4 @@
-﻿int [] myArray1 = {12,45,43,2,1};
+int [] myArray1 = {12,45,43,2,1};
 
 int n = myArray1.Length;
 
